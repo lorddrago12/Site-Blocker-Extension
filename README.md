@@ -17,14 +17,13 @@ Block any site instantly. Watch your attempt counter climb. Feel the shame. Stay
 
 <div align="center">
 
-| Popup | Blocked Page (Rosé Pine) |
-|:---:|:---:|
-| <img src="https://github.com/user-attachments/assets/6e97fa1d-84e4-4783-a10a-57305ed3a2cb" width="280"/> | <img src="<img width="1869" height="1025" alt="image" src="https://github.com/user-attachments/assets/3f48c9bf-e1d6-4f96-bd78-c7fc03c7f09a" />
-" width="450"/> |
+### Popup
+<img src="https://github.com/user-attachments/assets/6e97fa1d-84e4-4783-a10a-57305ed3a2cb" width="280"/>
+
+### Blocked Page (Rosé Pine)
+<img src="https://github.com/user-attachments/assets/3f48c9bf-e1d6-4f96-bd78-c7fc03c7f09a" width="700"/>
 
 </div>
-
----
 
 ## ✨ Features
 
